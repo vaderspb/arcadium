@@ -1,0 +1,6 @@
+[submodule "arcadium-server"]
+	path = arcadium-server
+	url = https://github.com/vaderspb/arcadium-server.git
+[submodule "arcadium-web"]
+	path = arcadium-web
+	url = https://github.com/vaderspb/arcadium-web.git
